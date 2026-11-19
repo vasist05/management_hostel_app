@@ -2,5 +2,7 @@
   "name": "HOSTEL MANAGER V4.1",
   "description": "Modern Hostel, PG & Co-Living Management SaaS platform for Indian property owners and wardens to manage tenants, rooms, beds, rent, expenses, electricity bills, KYC documents, and reports.",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
 }
